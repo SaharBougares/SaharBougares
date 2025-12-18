@@ -63,5 +63,4 @@ I build end-to-end web applications (UI → API → Database) with a focus on cl
 ---
 
 ### Key Links
-- SupportBot: https://github.com/SaharBougares/supportbot  
 - Portfolio: https://github.com/SaharBougares/portfolio  
