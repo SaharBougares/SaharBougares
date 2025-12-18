@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <p align="center">
   First-year Software Engineering student • Full-Stack Development • AI • Data • Web Security
 </p>
+<p align="right">
+  <img src="assets/pixel.gif" width="260" alt="pixel art" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahar-bougares-0b0b84385">
