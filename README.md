@@ -23,12 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahar-bougares-0b0b84385">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:saharbougares@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ 
   <a href="https://github.com/SaharBougares/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -65,8 +60,14 @@ I build end-to-end web applications (UI → API → Database) with a focus on cl
 ---
 
 ### Contact
-- LinkedIn: https://www.linkedin.com/in/sahar-bougares-0b0b84385  
-- Email: saharbougares@gmail.com
+
+
+-  <a href="https://www.linkedin.com/in/sahar-bougares-0b0b84385">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saharbougares@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 
 
