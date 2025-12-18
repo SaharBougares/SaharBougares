@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   First-year Software Engineering student • Full-Stack Development • AI • Data • Web Security
 </p>
 <p align="right">
-  <img src="assets/pixel.gif" width="260" alt="pixel art" />
+  <img src="assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="260" alt="pixel art" />
 </p>
 
 <!--<p align="center">
