@@ -1,34 +1,37 @@
-<!-- Profile README: SaharBougares -->
-
-<p align="right">
-  <img src="assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="240" alt="pixel art" />
-</p>
-
-<h1 align="center">Sahar Bougares</h1>
-<p align="center">
-  First-year Software Engineering student • Full-Stack • AI • Data • Web Security
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sahar-bougares-0b0b84385">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:saharbougares@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/SaharBougares/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="70%">
+      <h1>Sahar Bougares</h1>
+      <p>
+        First-year Software Engineering student • Full-Stack • AI • Data • Web Security
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/sahar-bougares-0b0b84385">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:saharbougares@gmail.com">
+          <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://github.com/SaharBougares/portfolio">
+          <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="30%" align="right">
+      <img src="assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="180" alt="pixel art" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Summary
+## Summary
 I build end-to-end web applications (UI → API → Database) with a focus on clean architecture, maintainability, and security-aware development. I’m interested in cloud-based systems, AI-enabled features, and data analytics.
 
 ---
 
-### Tech Stack
+## Tech Stack
+
 <p>
   <img src="https://img.shields.io/badge/Angular-0F172A?style=flat&logo=angular&logoColor=DD0031" />
   <img src="https://img.shields.io/badge/React-0F172A?style=flat&logo=react&logoColor=61DAFB" />
@@ -37,12 +40,14 @@ I build end-to-end web applications (UI → API → Database) with a focus on cl
   <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/Express-0F172A?style=flat&logo=express&logoColor=white" />
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/SQL-0F172A?style=flat&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Firebase-0F172A?style=flat&logo=firebase&logoColor=FFCA28" />
   <img src="https://img.shields.io/badge/Power%20BI-0F172A?style=flat&logo=powerbi&logoColor=F2C811" />
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/Python-0F172A?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Java-0F172A?style=flat&logo=openjdk&logoColor=white" />
@@ -55,12 +60,18 @@ I build end-to-end web applications (UI → API → Database) with a focus on cl
 
 ---
 
-### Highlights
-- Full-stack web development with modern frameworks and structured REST APIs  
+## Highlights
+- End-to-end web development with modern frameworks and structured REST APIs  
 - Cloud-ready data layers (MongoDB Atlas, Firestore) and BI dashboards (Power BI)  
-- Security-aware development (validation, auth, and best practices)
+- Security-aware development (validation, authentication, and best practices)
 
 ---
 
-### Key Links
+## Key Links
 - Portfolio: https://github.com/SaharBougares/portfolio  
+
+---
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/sahar-bougares-0b0b84385  
+Email: saharbougares@gmail.com
