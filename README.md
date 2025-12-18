@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="70%">
+    <td width="80%">
       <h1>Sahar Bougares</h1>
       <p>
         First-year Software Engineering student • Full-Stack • AI • Data • Web Security
