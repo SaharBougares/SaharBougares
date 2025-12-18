@@ -26,5 +26,8 @@ I build end-to-end web applications (UI → API → Database) with a focus on cl
 <a href="https://www.linkedin.com/in/sahar-bougares-0b0b84385">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-Email: saharbougares@gmail.com
+<a href="mailto:saharbougares@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
