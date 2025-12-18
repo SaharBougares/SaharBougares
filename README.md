@@ -23,6 +23,8 @@ I build end-to-end web applications (UI → API → Database) with a focus on cl
 **Technical skills:** Angular, React, Node.js/Express, NestJS, Django, SQL/NoSQL, MongoDB Atlas, Firebase/Firestore, Power BI, Python, Java, C, C++, HTML, CSS.  
 **Tools:** Git, GitHub, Postman.
 
-LinkedIn: https://www.linkedin.com/in/sahar-bougares-0b0b84385  
+<a href="https://www.linkedin.com/in/sahar-bougares-0b0b84385">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 Email: saharbougares@gmail.com
 
