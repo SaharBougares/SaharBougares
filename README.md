@@ -22,12 +22,12 @@ Here are some ideas to get you started:
   <img src="assets/pixel.gif" width="260" alt="pixel art" />
 </p>
 
-<p align="center">
+<!--<p align="center">
  
   <a href="https://github.com/SaharBougares/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</p>-->
 
 ---
 
@@ -62,7 +62,7 @@ I build end-to-end web applications (UI → API → Database) with a focus on cl
 ### Contact
 
 
--  <a href="https://www.linkedin.com/in/sahar-bougares-0b0b84385">
+ <a href="https://www.linkedin.com/in/sahar-bougares-0b0b84385">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:saharbougares@gmail.com">
